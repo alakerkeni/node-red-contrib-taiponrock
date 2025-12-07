@@ -1,12 +1,16 @@
 {
-  "name": "node-red-contrib-ala-node",
-  "version": "1.0.1",
+  "name": "node-red-contrib-ala",
+  "version": "1.0.2",
   "node-red": {
 	"nodes": {
 		"Ala-node": "node.js"
 	}
   },
   "description": "",
+  "keywords": [
+    "node-red",
+    "transformation"
+  ],
   "main": "node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
