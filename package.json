@@ -1,5 +1,5 @@
 {
-  "name": "red-contrib-taiponrock",
+  "name": "node-red-contrib-ala-node",
   "version": "1.0.0",
   "node-red": {
 	"nodes": {
